@@ -171,3 +171,5 @@ Dataset/hashes.txt
 Dataset/database.sqlite
 /Rakin/base
 /Rakin/results
+.conda/
+
